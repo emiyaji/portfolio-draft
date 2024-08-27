@@ -1,2 +1,2 @@
 # portfolio-draft
-WIP portfolio  [view my site](file:///Users/emirimiyaji/Desktop/github/portfolio-draft/index.html)
+WIP portfolio  [view my site](https://emiyaji.github.io/portfolio-draft/)
